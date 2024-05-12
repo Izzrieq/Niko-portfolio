@@ -1,4 +1,4 @@
-# Niko-portfolio
+# This is only for ILP assignment use!
 1st portfolio
 full html + css
 js additional for hamburger click
